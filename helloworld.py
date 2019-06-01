@@ -5,7 +5,7 @@
 import stdio
 
 # Write 'Hello, World' to standard output.
-stdio.writeln('Hello, World!!!11qqqqqq')
+stdio.writeln('Hello, World!!!222')
 #33
 
 #-----------------------------------------------------------------------
